@@ -4,7 +4,7 @@
     Javascript's ecosystem (React, Node, React Native, data structure and algorithm with JS); <br/>
     English.
 - 💞️ I’m looking to collaborate on my future own project (iHair) lol
-- 📫 How to reach me: here :)
+- 📫 How to reach me: nowhere... yet :)
 
 <!---
 FAOSjs/FAOSjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
